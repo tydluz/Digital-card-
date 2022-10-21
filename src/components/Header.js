@@ -12,7 +12,7 @@ export default function Header() {
         </a>
       </p>
       <button className="email-btn" type="email">
-        <img src="./images/Mail.png" alt="Mail" />
+        <img src="./images/Mail.png" alt="" />
         Email
       </button>
     </header>
